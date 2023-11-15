@@ -1,0 +1,33 @@
+[
+  {"question": "What country is the second largest in the world by area?",
+    "answers": ["Russia", "China", "United States of America", "Canada"],
+    "right answer": "d"},
+
+  {"question": "Which nation claims ownership of Antarctica?",
+    "answers": ["United States of America", "United Nations", "Australia", "No one, but there are claims."],
+    "right answer": "d"},
+
+  {"question": "How many federal states does Germany have?",
+  "answers": ["13", "16", "28", "19"],
+    "right answer": "b"},
+
+  {"question": "Which UK country features a dragon on their flag?",
+    "answers": ["North Ireland", "Wales", "England", "Scotland"],
+    "right answer": "b"},
+
+  {"question": "What is the Capital of the United States?",
+    "answers": ["Washington, D.C.", "Los Angeles, CA", "New York City, NY", "Houston, TX"],
+    "right answer": "a"},
+
+  {"question": "The Space Needle is located in which city?",
+  "answers": ["Los Angeles, CA", "Seattle", "Toronto", "Vancouver"],
+  "right answer": "b"},
+
+  {"question": "How many countries does Mexico border?",
+    "answers": ["3", "2", "4", "1"],
+    "right answer": "a"},
+
+  {"question": "What is the largest country in the world?",
+    "answers": ["Russia", "China", "United States of America", "Canada"],
+    "right answer": "a"}
+]
